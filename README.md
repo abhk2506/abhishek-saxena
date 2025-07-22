@@ -13,4 +13,4 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saxenabhishek2506/)
-[![Email](https://img.shields.io/badge/Email-abhi.saxena%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:abhisheksaxena567@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abhisheksaxena567%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:abhisheksaxena567@gmail.com)
